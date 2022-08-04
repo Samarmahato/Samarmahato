@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full-Stack Web developer and Blockchain Enthusiast </h3>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas7102&label=Profile%20views&color=0e75b6&style=flat" alt="prayas7102" /> </p>
+
 
 - 🔭 I’m currently working on **Student Support and Progression**
  
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I think life is a Code must understand it..**
 
 
-<h3 align="center">A passionate Coder/Devloper from India</h3>
+<h3 align="center">A passionate Coder/Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarmahato&label=Profile%20views&color=0e75b6&style=flat" alt="samarmahato" /> </p>
 
