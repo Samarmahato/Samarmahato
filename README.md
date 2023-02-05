@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 
-- 🔭 I’m currently working on **Student Support and Progression**
+
+- 🔭 I’m currently working on **Plant Disease Detection Application**
+
+- 🔭 I’m previously working on **Student Support and Progression**
  
 - 🌱 I’m currently learning **DAPP, Ethereum, Blockchain**
 
