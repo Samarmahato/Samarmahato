@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Plant Disease Detection Application**
 
-- 🔭 I’m previously working on **Student Support and Progression**
+- ⚡ I’m previously working on **Student Support and Progression**
  
 - 🌱 I’m currently learning **DAPP, Ethereum, Blockchain**
 
