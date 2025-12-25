@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🌱 Built a strong foundation in problem-solving, data structures, and backend concepts, which now supports my work in SAP ABAP, RAP, and S/4HANA development
 
 
-<h3 align="center">A passionate Coder/Developer from India</h3>
+<h3 align="center">A passionate SAP Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarmahato&label=Profile%20views&color=0e75b6&style=flat" alt="samarmahato" /> </p>
 
