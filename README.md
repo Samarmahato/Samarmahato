@@ -25,21 +25,20 @@ Here are some ideas to get you started:
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
 
 
-- 🔭 I’m currently working on **Plant Disease Detection Application**
-
-- ⚡ I’m previously working on **Student Support and Progression**
+- 🔭 I’m currently working on **ROITech Consulting Pvt. Ltd.**
  
-- 🌱 I’m currently learning **DAPP, Ethereum, Blockchain**
+- 🌱 I’m currently learning **SAP RAP , UI5, SAP S4 HANA**
 
 - 📝 I regularly write My view on https://twitter.com/SamarMa61979073
 
-- 💬 Ask me about **React, DSA, NFTs, MERN, DAPP, Ethereum**
+- 💬 Ask me about **React, DSA, NFTs, MERN, DAPP, Ethereum, DAPP, Ethereum, Blockchain**
+- 🌱 Collage Project **Student Support and Progression**
 
 - 📫 How to reach me **samarmahato2520@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/drive/folders/1gx4Ouyb9P0_wufqp7UyRMdafG66Kr9Ty?usp=sharing
 
-- ⚡ Fun fact **I think life is a Code must understand it..**
+- ⚡ Fun fact **I belive life is a Code must understand it..**
 
 
 <h3 align="center">A passionate Coder/Developer from India</h3>
