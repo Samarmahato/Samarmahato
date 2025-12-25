@@ -31,14 +31,23 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write My view on https://twitter.com/SamarMa61979073
 
-- 💬 Ask me about **React, DSA, NFTs, MERN, DAPP, Ethereum, DAPP, Ethereum, Blockchain**
-- 🌱 Collage Project **Student Support and Progression**
-
 - 📫 How to reach me **samarmahato2520@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/drive/folders/1gx4Ouyb9P0_wufqp7UyRMdafG66Kr9Ty?usp=sharing
 
 - ⚡ Fun fact **I belive life is a Code must understand it..**
+  
+### :bar_chart: Education Overview 
+- 🎓 Bachelor of Technology (B.Tech 2019 – 2023) in Information Technology .
+- 🏫 College Project: Student Support and Progression System
+- Focused on improving student performance tracking and academic support
+- Applied concepts of Operating Systems, DBMS, and Computer Networks
+- 🤖 Learning Focus during College:
+- Artificial Intelligence & Blockchain fundamentals
+- Hands-on exposure through academic projects
+- 💻 Programming Languages Learned:
+- C++ , Java ,JavaScript
+- 🌱 Built a strong foundation in problem-solving, data structures, and backend concepts, which now supports my work in SAP ABAP, RAP, and S/4HANA development
 
 
 <h3 align="center">A passionate Coder/Developer from India</h3>
