@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Samar Mahato</h1>
-<h3 align="center">A passionate Full-Stack Web developer and Blockchain Enthusiast </h3>
+<h3 align="center">A passionate Full-Stack SAP ABAP devloper & AI Enthusiast </h3>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer"></h3>
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
